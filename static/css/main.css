@@ -42,7 +42,6 @@ body, main {
 
 section, .section {
   position: relative;
-  padding: 1rem 0rem;
 }
 
 figure {
@@ -83,12 +82,11 @@ Nav
 ****************/
 
 .bg-dark {
-  background-color:#1589FF!important;
+  background-color:#000!important;
 }
 
 .navbar-brand {
-  margin-bottom: 0rem;
-  margin-right: 1rem;
+  margin-bottom:1rem;
   width:500px;
 }
 
@@ -171,7 +169,7 @@ Home Page Template
 
 .featured-article figure {
   width:100%;
-  height:220px;
+  height:530px;
   padding-top: 56.25%;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -218,9 +216,8 @@ Single Page Template
 
 .jumbotron {
   margin-bottom:0;
-  height: 155px;
+  height: 410px;
   display: flex;
-  /* margin: auto; */
   align-items: center;
   background-repeat: no-repeat;
   background-position: 50% 50%;
@@ -450,7 +447,7 @@ Desktop
 }
 
 section, .section {
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 
 .flickity-title {
@@ -481,7 +478,6 @@ article.shrink {
   margin: 2rem 5rem 0 5rem;
 }
 }
-
 /****************
 Vendor: Flickity
 ****************/
@@ -499,7 +495,7 @@ Vendor: Flickity
 
 .carousel-cell {
   width: 100%; /* full width */
-  /* height: 165px; */ /* height of carousel */
+  height: 500px; /* height of carousel */
   background-position: 50% 50%;
   background-size: cover;
 }

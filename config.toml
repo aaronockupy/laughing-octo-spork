@@ -1,7 +1,7 @@
 baseurl = "/"
-title = "CoinNews"
+title = "Cryptos"
 languageCode = "en-us"
-logo = "CoinNews Feed"
+logo = "Cryptos"
 
 # Pagination
 paginate = 8
@@ -14,7 +14,7 @@ paginatePath = "page"
 sectionPagesMenu = "main"
 
 #Disqus
-disqusShortname = "CoinNews-1"
+disqusShortname = "Cryptos-1"
 
 
 [taxonomies]
